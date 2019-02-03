@@ -5,4 +5,5 @@ Push Push (2017)
 ![help](/inImage/help.JPG)
 ![score](/inImage/score.JPG)
 
-대학교 1학년 2학기 C언어 시간 과제
+대학교 1 학년 2 학기 C 언어 수업 과제
+< BR > 아이 패치예정
